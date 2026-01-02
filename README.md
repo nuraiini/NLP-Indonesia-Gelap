@@ -97,7 +97,7 @@ Pada eksperimen ini, Word2Vec (CBOW) terbukti lebih unggul dalam membentuk topik
     *(Pastikan library `bertopic`, `gensim`, `sastrawi`, dan `scikit-learn` terinstall)*
 
 3.  **Eksekusi Notebook:**
-    Jalankan file `Topic_Modeling_Analysis.ipynb` melalui Jupyter Notebook atau Google Colab.
+    Jalankan file `Pre_Trained_Word2vec_BERTopic.ipynb` melalui Jupyter Notebook atau Google Colab.
 
 ## 📚 Referensi
 
