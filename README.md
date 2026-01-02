@@ -14,7 +14,7 @@ Alih-alih menggunakan model bahasa standar (seperti BERT multilingual), proyek i
 ## 👤 Penulis & Kontributor
 
 **Pemilik Repositori (Dokumentasi Portofolio):**
-* **Nur’aini** - [Tautan LinkedIn Anda] | [Email Anda]
+* **Nur’aini** - http://www.linkedin.com/in/nuraiinii01 | Nuraiinii1001@gmail.com
 *(Program Studi Statistika dan Sains Data, IPB University)*
 
 ---
